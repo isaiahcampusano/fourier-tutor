@@ -2,7 +2,8 @@
 
 http://localhost:5173/fourier-tutor/
 
-<img width="972" height="583" alt="image" src="https://github.com/user-attachments/assets/ba56093b-e500-4530-93b0-08c8f0094ad6" />
+<img width="672" height="384" alt="image" src="https://github.com/user-attachments/assets/5a72aea5-6858-4fb5-ba47-87d8f42a0c85" />
+
 
 ---
 
