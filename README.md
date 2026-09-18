@@ -1,5 +1,11 @@
 # Fourier Tutor
 
+http://localhost:5173/fourier-tutor/
+
+<img width="972" height="583" alt="image" src="https://github.com/user-attachments/assets/ba56093b-e500-4530-93b0-08c8f0094ad6" />
+
+---
+
 An adaptive technical learning tool. V1 teaches one concept domain — Fourier / sine waves — by diagnosing a learner's specific misconception, targeting it with an interactive explanation, and adapting the follow-up based on what they got wrong.
 
 This is a product-engineering flagship: the goal is coherent ownership across frontend, backend, database, AI integration, evaluation, and deployment — not maximum complexity.
